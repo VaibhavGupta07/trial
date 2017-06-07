@@ -1,1 +1,4 @@
-third file from master branch
+
+=======
+third file from new branch
+
